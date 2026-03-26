@@ -5,7 +5,7 @@
 --]]
 
 -- Variáveis globais
-local keyCorrect = "keygratis94"
+local keyCorrect = "2026lol"
 local userInput = ""
 local authenticated = false
 
